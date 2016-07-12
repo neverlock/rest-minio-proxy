@@ -1,0 +1,1 @@
+# rest-minio-proxy
